@@ -1,0 +1,10 @@
+variable "region" {}
+variable "ami" {}
+variable "instance_type" {}
+variable "key_pair" {}
+variable "vpc_name" {}
+variable "public_subnets" {}
+variable "private_subnets" {}
+variable "sg_id" {}
+variable "public_ip_address" {}
+variable "environment" {}
